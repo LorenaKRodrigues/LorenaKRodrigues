@@ -29,5 +29,4 @@ Estudante de Engenharia de Dados e Desenvolvimento Full-Stack💻📊
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenakesily)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lorena.rodrigues.tech@gmail.com)
 
